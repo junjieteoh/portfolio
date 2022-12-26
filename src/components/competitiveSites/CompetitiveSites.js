@@ -25,12 +25,43 @@ class CompetitiveSites extends React.Component {
                     target="_blank"
                     rel="noopener noreferrer"
                   >
+                    <div>
+                      {(logo.logo_path && (
+                        <img
+                          width="45"
+                          height="45"
+                          src={require(`../../assests/images/${logo.logo_path}`)}
+                          alt=""
+                        />
+                      )) || (
+                        <span
+                          className="iconify"
+                          // data-icon={logo.iconifyClassname}
+                          data-icon={
+                            logo.iconifyClassname ||
+                            require(`../../assests/images/${logo.logo_path}`)
+                          }
+                          style={logo.style}
+                          //  data-inline="false"
+                        ></span>
+                      )}
+                    </div>
+                    {/* {logo.logo_path && <img
+                      style={{
+                        maxWidth: "17%",
+                        maxHeight: "17%",
+                        transform: "scale(0.9)",
+                      }}
+                      src={require(`../../assests/images/${logo.logo_path}`)}
+                      alt=""
+                    />}
                     <span
                       className="iconify"
-                      data-icon={logo.iconifyClassname}
+                      // data-icon={logo.iconifyClassname}
+                      data-icon={logo.iconifyClassname || require(`../../assests/images/${logo.logo_path}`)}
                       style={logo.style}
                       data-inline="false"
-                    ></span>
+                    ></span> */}
                   </a>
                 </li>
               </OverlayTrigger>

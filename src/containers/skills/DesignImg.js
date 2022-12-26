@@ -911,7 +911,7 @@ export default class DesignImg extends Component {
           fill={theme.dark}
         />
         <g opacity="0.1">
-          <path
+          {/* <path
             d="M697.57,501.65a13.82,13.82,0,0,0,.91-5.9,4.1,4.1,0,0,1-3.18,2.84,6.49,6.49,0,0,1-1.16.17c-.5,1.6-1.29,3.14-2.82,3.64a12.23,12.23,0,0,0,4.47.08A5,5,0,0,0,697.57,501.65Z"
             transform="translate(-17.96 -172.03)"
           />
@@ -1007,7 +1007,7 @@ export default class DesignImg extends Component {
             d="M302.93,183.05l-56.62,61.41H359.54Z"
             transform="translate(-17.96 -172.03)"
             fill="#feeeb7"
-          />
+          /> */}
         </g>
       </svg>
     );
