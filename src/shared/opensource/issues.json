@@ -1,1 +1,839 @@
-{"data":[{"id":"MDU6SXNzdWU2MDU0Nzg0NDk=","closed":false,"title":"Setting Up Workflow for the project","createdAt":"2020-04-23T12:06:14Z","url":"https://github.com/ashutosh1919/masterPortfolio/issues/2","number":2,"assignees":{"nodes":[{"avatarUrl":"https://avatars1.githubusercontent.com/u/20843596?u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4","name":"Ashutosh Hathidara","url":"https://github.com/ashutosh1919"}]},"repository":{"name":"masterPortfolio","url":"https://github.com/ashutosh1919/masterPortfolio","owner":{"login":"ashutosh1919","avatarUrl":"https://avatars1.githubusercontent.com/u/20843596?u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4","url":"https://github.com/ashutosh1919"}}},{"id":"MDU6SXNzdWU2MDI0NDg3NTY=","closed":false,"title":"In ModelCheckpoint, filepath is not accepting batch as formatting parameter.","createdAt":"2020-04-18T12:25:56Z","url":"https://github.com/tensorflow/tensorflow/issues/38668","number":38668,"assignees":{"nodes":[{"avatarUrl":"https://avatars2.githubusercontent.com/u/6505863?v=4","name":"Rick Chao","url":"https://github.com/rchao"}]},"repository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU2MDIzODIxNjI=","closed":false,"title":"save_freq is not accepting integer value in AverageModelCheckpoint","createdAt":"2020-04-18T05:19:27Z","url":"https://github.com/tensorflow/addons/issues/1701","number":1701,"assignees":{"nodes":[]},"repository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU1OTg4NzQxMDI=","closed":true,"title":"Currently logs param is None for on_train_end() and on_test_end()","createdAt":"2020-04-13T12:56:17Z","url":"https://github.com/tensorflow/tensorflow/issues/38498","number":38498,"assignees":{"nodes":[{"avatarUrl":"https://avatars2.githubusercontent.com/u/51902062?v=4","name":null,"url":"https://github.com/ravikyram"}]},"repository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU1OTgyNTg0MTQ=","closed":false,"title":"Need of flexible loss function GeneralLoss which can change behavior based on params","createdAt":"2020-04-11T12:41:54Z","url":"https://github.com/tensorflow/addons/issues/1646","number":1646,"assignees":{"nodes":[]},"repository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU1OTU1NjQyODc=","closed":false,"title":"Not able to customize social-cards","createdAt":"2020-04-07T03:29:37Z","url":"https://github.com/apollographql/gatsby-theme-apollo/issues/110","number":110,"assignees":{"nodes":[]},"repository":{"name":"gatsby-theme-apollo","url":"https://github.com/apollographql/gatsby-theme-apollo","owner":{"login":"apollographql","avatarUrl":"https://avatars0.githubusercontent.com/u/17189275?v=4","url":"https://github.com/apollographql"}}},{"id":"MDU6SXNzdWU1OTMyNjQ3NTg=","closed":true,"title":"Adding config to override prettier (if set) in any code editor","createdAt":"2020-04-03T09:59:05Z","url":"https://github.com/saadpasta/developerFolio/issues/77","number":77,"assignees":{"nodes":[{"avatarUrl":"https://avatars0.githubusercontent.com/u/48270786?u=dab5f6dc64923f646b354f47f52af65f44fd9e7e&v=4","name":"Kartik Choudhary","url":"https://github.com/kartik918"}]},"repository":{"name":"developerFolio","url":"https://github.com/saadpasta/developerFolio","owner":{"login":"saadpasta","avatarUrl":"https://avatars2.githubusercontent.com/u/23307811?u=eab46b153eef3f5183930e61898b462447af9219&v=4","url":"https://github.com/saadpasta"}}},{"id":"MDU6SXNzdWU1OTE2NjAzNTE=","closed":false,"title":"Add Animations to Pinned Projects ","createdAt":"2020-04-01T06:24:47Z","url":"https://github.com/ashutosh1919/masterPortfolio/issues/1","number":1,"assignees":{"nodes":[]},"repository":{"name":"masterPortfolio","url":"https://github.com/ashutosh1919/masterPortfolio","owner":{"login":"ashutosh1919","avatarUrl":"https://avatars1.githubusercontent.com/u/20843596?u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4","url":"https://github.com/ashutosh1919"}}},{"id":"MDU6SXNzdWU1OTAwMDczMDE=","closed":true,"title":"Improve the TFDS Getting Started Documentation","createdAt":"2020-03-30T05:37:01Z","url":"https://github.com/tensorflow/datasets/issues/1762","number":1762,"assignees":{"nodes":[]},"repository":{"name":"datasets","url":"https://github.com/tensorflow/datasets","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU1ODk1Nzk0NTc=","closed":true,"title":"BrowserRouter and HashRouter works for three Routes only","createdAt":"2020-03-28T13:40:27Z","url":"https://github.com/ReactTraining/react-router/issues/7223","number":7223,"assignees":{"nodes":[]},"repository":{"name":"react-router","url":"https://github.com/ReactTraining/react-router","owner":{"login":"ReactTraining","avatarUrl":"https://avatars1.githubusercontent.com/u/11823761?v=4","url":"https://github.com/ReactTraining"}}},{"id":"MDU6SXNzdWU1ODk1NzY4Nzg=","closed":true,"title":"BrowserRouter and HashRouter works for three Routes only ","createdAt":"2020-03-28T13:24:25Z","url":"https://github.com/facebook/react/issues/18414","number":18414,"assignees":{"nodes":[]},"repository":{"name":"react","url":"https://github.com/facebook/react","owner":{"login":"facebook","avatarUrl":"https://avatars3.githubusercontent.com/u/69631?v=4","url":"https://github.com/facebook"}}},{"id":"MDU6SXNzdWU1ODEwNjk1NjU=","closed":true,"title":"Required mean_absolute_relative_error (MARE) ","createdAt":"2020-03-14T06:39:28Z","url":"https://github.com/scikit-learn/scikit-learn/issues/16688","number":16688,"assignees":{"nodes":[]},"repository":{"name":"scikit-learn","url":"https://github.com/scikit-learn/scikit-learn","owner":{"login":"scikit-learn","avatarUrl":"https://avatars2.githubusercontent.com/u/365630?v=4","url":"https://github.com/scikit-learn"}}},{"id":"MDU6SXNzdWU1ODEwNDc0MDc=","closed":true,"title":"Example given in tf.image.rgb_to_yub is contadicting with the description.","createdAt":"2020-03-14T05:25:45Z","url":"https://github.com/tensorflow/tensorflow/issues/37591","number":37591,"assignees":{"nodes":[{"avatarUrl":"https://avatars2.githubusercontent.com/u/46058173?v=4","name":"Vishnuvardhan Janapati","url":"https://github.com/jvishnuvardhan"}]},"repository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU1NzMyNTA1NjQ=","closed":false,"title":"ModuleNotFoundError: No module named 'tensorflow_datasets'","createdAt":"2020-02-29T08:28:06Z","url":"https://github.com/tensorflow/datasets/issues/1544","number":1544,"assignees":{"nodes":[]},"repository":{"name":"datasets","url":"https://github.com/tensorflow/datasets","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU1Njk4OTI2MTE=","closed":true,"title":"There are no documentations related to decode_predictions() and preprocess_input() in any keras.applications","createdAt":"2020-02-24T14:28:33Z","url":"https://github.com/tensorflow/tensorflow/issues/37021","number":37021,"assignees":{"nodes":[{"avatarUrl":"https://avatars2.githubusercontent.com/u/46058173?v=4","name":"Vishnuvardhan Janapati","url":"https://github.com/jvishnuvardhan"}]},"repository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU1NTgwODYwMTM=","closed":true,"title":"Need for more flexible Loss Function","createdAt":"2020-01-31T11:50:06Z","url":"https://github.com/tensorflow/tensorflow/issues/36369","number":36369,"assignees":{"nodes":[{"avatarUrl":"https://avatars0.githubusercontent.com/u/13326758?u=af9430e7bc177fa3a1a256dd224b0765bd820bcf&v=4","name":"Pavithra Vijay","url":"https://github.com/pavithrasv"}]},"repository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU0OTQ1NzMwMzc=","closed":true,"title":"I am not able to import Dataset","createdAt":"2019-09-17T11:46:15Z","url":"https://github.com/aerdem4/lofo-importance/issues/26","number":26,"assignees":{"nodes":[]},"repository":{"name":"lofo-importance","url":"https://github.com/aerdem4/lofo-importance","owner":{"login":"aerdem4","avatarUrl":"https://avatars3.githubusercontent.com/u/24624210?u=58887e9c09a3c0576a8ce61ba881132ebf4c137c&v=4","url":"https://github.com/aerdem4"}}},{"id":"MDU6SXNzdWU0ODI4MTcwNjE=","closed":false,"title":"Setup Readme file in proper format","createdAt":"2019-08-20T11:58:49Z","url":"https://github.com/NebutechOpenSource/MLGen/issues/1","number":1,"assignees":{"nodes":[]},"repository":{"name":"MLGen","url":"https://github.com/NebutechOpenSource/MLGen","owner":{"login":"NebutechOpenSource","avatarUrl":"https://avatars3.githubusercontent.com/u/53137955?u=2abe60da5dfbd4b442e415e6c553f58a21cf9547&v=4","url":"https://github.com/NebutechOpenSource"}}}],"open":8,"closed":10,"totalCount":18}
+{
+  "closed": 6,
+  "data": [
+    {
+      "id": "I_kwDOIXIhKs5aQdAG",
+      "closed": false,
+      "title": "Potential improvements on webportal",
+      "createdAt": "2022-12-30T05:45:24Z",
+      "url": "https://github.com/aroellin/teachalloc/issues/8",
+      "number": 8,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/8509783?u=75aab158da1069864fe6862cd8beecef2a2187c9&v=4",
+            "name": "David Chew",
+            "url": "https://github.com/dshchew"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/18709203?u=c503d2d0616052e63174759f4f54dd3eeafba593&v=4",
+            "name": "Adrian Röllin",
+            "url": "https://github.com/aroellin"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/45454752?v=4",
+            "name": null,
+            "url": "https://github.com/junjieteoh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "teachalloc",
+        "url": "https://github.com/aroellin/teachalloc",
+        "owner": {
+          "login": "aroellin",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/18709203?u=c503d2d0616052e63174759f4f54dd3eeafba593&v=4",
+          "url": "https://github.com/aroellin"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIXIhKs5aQcwG",
+      "closed": false,
+      "title": "Write documentation on the proper formatting of preferences.xlsx on README.md",
+      "createdAt": "2022-12-30T05:42:26Z",
+      "url": "https://github.com/aroellin/teachalloc/issues/7",
+      "number": 7,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/45454752?v=4",
+            "name": null,
+            "url": "https://github.com/junjieteoh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "teachalloc",
+        "url": "https://github.com/aroellin/teachalloc",
+        "owner": {
+          "login": "aroellin",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/18709203?u=c503d2d0616052e63174759f4f54dd3eeafba593&v=4",
+          "url": "https://github.com/aroellin"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIXIhKs5aQchR",
+      "closed": false,
+      "title": "Refactor current allocatev2.py to follow good practises",
+      "createdAt": "2022-12-30T05:39:39Z",
+      "url": "https://github.com/aroellin/teachalloc/issues/6",
+      "number": 6,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/45454752?v=4",
+            "name": null,
+            "url": "https://github.com/junjieteoh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "teachalloc",
+        "url": "https://github.com/aroellin/teachalloc",
+        "owner": {
+          "login": "aroellin",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/18709203?u=c503d2d0616052e63174759f4f54dd3eeafba593&v=4",
+          "url": "https://github.com/aroellin"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIXIhKs5aQcLo",
+      "closed": false,
+      "title": "Enhance input validation check for preference excel",
+      "createdAt": "2022-12-30T05:35:30Z",
+      "url": "https://github.com/aroellin/teachalloc/issues/5",
+      "number": 5,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/45454752?v=4",
+            "name": null,
+            "url": "https://github.com/junjieteoh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "teachalloc",
+        "url": "https://github.com/aroellin/teachalloc",
+        "owner": {
+          "login": "aroellin",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/18709203?u=c503d2d0616052e63174759f4f54dd3eeafba593&v=4",
+          "url": "https://github.com/aroellin"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIXIhKs5aQbzK",
+      "closed": false,
+      "title": "Potential improvements for the excel report",
+      "createdAt": "2022-12-30T05:30:54Z",
+      "url": "https://github.com/aroellin/teachalloc/issues/4",
+      "number": 4,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/8509783?u=75aab158da1069864fe6862cd8beecef2a2187c9&v=4",
+            "name": "David Chew",
+            "url": "https://github.com/dshchew"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/18709203?u=c503d2d0616052e63174759f4f54dd3eeafba593&v=4",
+            "name": "Adrian Röllin",
+            "url": "https://github.com/aroellin"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/45454752?v=4",
+            "name": null,
+            "url": "https://github.com/junjieteoh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "teachalloc",
+        "url": "https://github.com/aroellin/teachalloc",
+        "owner": {
+          "login": "aroellin",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/18709203?u=c503d2d0616052e63174759f4f54dd3eeafba593&v=4",
+          "url": "https://github.com/aroellin"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIXIhKs5aQbaV",
+      "closed": false,
+      "title": "Create a skeleton for web portal ",
+      "createdAt": "2022-12-30T05:26:09Z",
+      "url": "https://github.com/aroellin/teachalloc/issues/3",
+      "number": 3,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/45454752?v=4",
+            "name": null,
+            "url": "https://github.com/junjieteoh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "teachalloc",
+        "url": "https://github.com/aroellin/teachalloc",
+        "owner": {
+          "login": "aroellin",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/18709203?u=c503d2d0616052e63174759f4f54dd3eeafba593&v=4",
+          "url": "https://github.com/aroellin"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIXIhKs5aQbGe",
+      "closed": false,
+      "title": "Optimising allocation scripts",
+      "createdAt": "2022-12-30T05:22:11Z",
+      "url": "https://github.com/aroellin/teachalloc/issues/2",
+      "number": 2,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/45454752?v=4",
+            "name": null,
+            "url": "https://github.com/junjieteoh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "teachalloc",
+        "url": "https://github.com/aroellin/teachalloc",
+        "owner": {
+          "login": "aroellin",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/18709203?u=c503d2d0616052e63174759f4f54dd3eeafba593&v=4",
+          "url": "https://github.com/aroellin"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHLsjcs5H4sl-",
+      "closed": false,
+      "title": "Object Diagram",
+      "createdAt": "2022-04-16T07:39:48Z",
+      "url": "https://github.com/junjieteoh/pe/issues/17",
+      "number": 17,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "pe",
+        "url": "https://github.com/junjieteoh/pe",
+        "owner": {
+          "login": "junjieteoh",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/45454752?v=4",
+          "url": "https://github.com/junjieteoh"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHLsjcs5H4sAN",
+      "closed": false,
+      "title": "Some content cut off in DG ",
+      "createdAt": "2022-04-16T07:29:06Z",
+      "url": "https://github.com/junjieteoh/pe/issues/16",
+      "number": 16,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "pe",
+        "url": "https://github.com/junjieteoh/pe",
+        "owner": {
+          "login": "junjieteoh",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/45454752?v=4",
+          "url": "https://github.com/junjieteoh"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHLsjcs5H4r3V",
+      "closed": false,
+      "title": "Some diagarm a little bit too small.",
+      "createdAt": "2022-04-16T07:26:38Z",
+      "url": "https://github.com/junjieteoh/pe/issues/15",
+      "number": 15,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "pe",
+        "url": "https://github.com/junjieteoh/pe",
+        "owner": {
+          "login": "junjieteoh",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/45454752?v=4",
+          "url": "https://github.com/junjieteoh"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHLsjcs5H4rj2",
+      "closed": false,
+      "title": "UG Command Summary can be arranged in a neater way",
+      "createdAt": "2022-04-16T07:21:13Z",
+      "url": "https://github.com/junjieteoh/pe/issues/14",
+      "number": 14,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "pe",
+        "url": "https://github.com/junjieteoh/pe",
+        "owner": {
+          "login": "junjieteoh",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/45454752?v=4",
+          "url": "https://github.com/junjieteoh"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHLsjcs5H4rO6",
+      "closed": false,
+      "title": "UG newline symbol not rendered properly ",
+      "createdAt": "2022-04-16T07:15:03Z",
+      "url": "https://github.com/junjieteoh/pe/issues/13",
+      "number": 13,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "pe",
+        "url": "https://github.com/junjieteoh/pe",
+        "owner": {
+          "login": "junjieteoh",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/45454752?v=4",
+          "url": "https://github.com/junjieteoh"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHLsjcs5H4q3N",
+      "closed": false,
+      "title": "Events not sorted in chronological order.",
+      "createdAt": "2022-04-16T07:08:35Z",
+      "url": "https://github.com/junjieteoh/pe/issues/12",
+      "number": 12,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "pe",
+        "url": "https://github.com/junjieteoh/pe",
+        "owner": {
+          "login": "junjieteoh",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/45454752?v=4",
+          "url": "https://github.com/junjieteoh"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHLsjcs5H4qkw",
+      "closed": false,
+      "title": "Invalid example command in error message",
+      "createdAt": "2022-04-16T07:03:41Z",
+      "url": "https://github.com/junjieteoh/pe/issues/11",
+      "number": 11,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "pe",
+        "url": "https://github.com/junjieteoh/pe",
+        "owner": {
+          "login": "junjieteoh",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/45454752?v=4",
+          "url": "https://github.com/junjieteoh"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHLsjcs5H4qcV",
+      "closed": false,
+      "title": "Potential Improvement : Editing event ",
+      "createdAt": "2022-04-16T07:01:26Z",
+      "url": "https://github.com/junjieteoh/pe/issues/10",
+      "number": 10,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "pe",
+        "url": "https://github.com/junjieteoh/pe",
+        "owner": {
+          "login": "junjieteoh",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/45454752?v=4",
+          "url": "https://github.com/junjieteoh"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHLsjcs5H4qDc",
+      "closed": false,
+      "title": "Cosmetic issues with error message ",
+      "createdAt": "2022-04-16T06:53:27Z",
+      "url": "https://github.com/junjieteoh/pe/issues/9",
+      "number": 9,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "pe",
+        "url": "https://github.com/junjieteoh/pe",
+        "owner": {
+          "login": "junjieteoh",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/45454752?v=4",
+          "url": "https://github.com/junjieteoh"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHLsjcs5H4qAC",
+      "closed": false,
+      "title": "Error message not specific enough",
+      "createdAt": "2022-04-16T06:52:16Z",
+      "url": "https://github.com/junjieteoh/pe/issues/8",
+      "number": 8,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "pe",
+        "url": "https://github.com/junjieteoh/pe",
+        "owner": {
+          "login": "junjieteoh",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/45454752?v=4",
+          "url": "https://github.com/junjieteoh"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHLsjcs5H4px6",
+      "closed": false,
+      "title": "Finding phone number should not have input restriction limits",
+      "createdAt": "2022-04-16T06:47:23Z",
+      "url": "https://github.com/junjieteoh/pe/issues/7",
+      "number": 7,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "pe",
+        "url": "https://github.com/junjieteoh/pe",
+        "owner": {
+          "login": "junjieteoh",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/45454752?v=4",
+          "url": "https://github.com/junjieteoh"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHLsjcs5H4pkQ",
+      "closed": false,
+      "title": "Restriction on modules/internship being only alphanumeric might be too restrictive",
+      "createdAt": "2022-04-16T06:42:45Z",
+      "url": "https://github.com/junjieteoh/pe/issues/6",
+      "number": 6,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "pe",
+        "url": "https://github.com/junjieteoh/pe",
+        "owner": {
+          "login": "junjieteoh",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/45454752?v=4",
+          "url": "https://github.com/junjieteoh"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHLsjcs5H4pMA",
+      "closed": false,
+      "title": "Add different tags for a space in between",
+      "createdAt": "2022-04-16T06:34:16Z",
+      "url": "https://github.com/junjieteoh/pe/issues/5",
+      "number": 5,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "pe",
+        "url": "https://github.com/junjieteoh/pe",
+        "owner": {
+          "login": "junjieteoh",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/45454752?v=4",
+          "url": "https://github.com/junjieteoh"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHLsjcs5H4o1U",
+      "closed": false,
+      "title": "Some potential valid names are rejected as invalid command. ",
+      "createdAt": "2022-04-16T06:26:14Z",
+      "url": "https://github.com/junjieteoh/pe/issues/4",
+      "number": 4,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "pe",
+        "url": "https://github.com/junjieteoh/pe",
+        "owner": {
+          "login": "junjieteoh",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/45454752?v=4",
+          "url": "https://github.com/junjieteoh"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHLsjcs5H4ooB",
+      "closed": false,
+      "title": "Persons seems to be sorted in chronological order ",
+      "createdAt": "2022-04-16T06:21:42Z",
+      "url": "https://github.com/junjieteoh/pe/issues/3",
+      "number": 3,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "pe",
+        "url": "https://github.com/junjieteoh/pe",
+        "owner": {
+          "login": "junjieteoh",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/45454752?v=4",
+          "url": "https://github.com/junjieteoh"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHLsjcs5H4oYo",
+      "closed": false,
+      "title": "Adding long names cause the contact display pane to get cut off ",
+      "createdAt": "2022-04-16T06:16:39Z",
+      "url": "https://github.com/junjieteoh/pe/issues/2",
+      "number": 2,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "pe",
+        "url": "https://github.com/junjieteoh/pe",
+        "owner": {
+          "login": "junjieteoh",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/45454752?v=4",
+          "url": "https://github.com/junjieteoh"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHLsjcs5H3ecK",
+      "closed": true,
+      "title": "Dummy bug",
+      "createdAt": "2022-04-15T16:57:08Z",
+      "url": "https://github.com/junjieteoh/pe/issues/1",
+      "number": 1,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "pe",
+        "url": "https://github.com/junjieteoh/pe",
+        "owner": {
+          "login": "junjieteoh",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/45454752?v=4",
+          "url": "https://github.com/junjieteoh"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHGg7I85G5A_n",
+      "closed": false,
+      "title": "Deleting event when it does not exist - error message ",
+      "createdAt": "2022-04-01T07:12:39Z",
+      "url": "https://github.com/junjieteoh/ped/issues/7",
+      "number": 7,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ped",
+        "url": "https://github.com/junjieteoh/ped",
+        "owner": {
+          "login": "junjieteoh",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/45454752?v=4",
+          "url": "https://github.com/junjieteoh"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHGg7I85G486Z",
+      "closed": false,
+      "title": "Possibly redundant valid format ",
+      "createdAt": "2022-04-01T06:57:46Z",
+      "url": "https://github.com/junjieteoh/ped/issues/6",
+      "number": 6,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ped",
+        "url": "https://github.com/junjieteoh/ped",
+        "owner": {
+          "login": "junjieteoh",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/45454752?v=4",
+          "url": "https://github.com/junjieteoh"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHGg7I85G45Gw",
+      "closed": false,
+      "title": "Event time format ",
+      "createdAt": "2022-04-01T06:41:44Z",
+      "url": "https://github.com/junjieteoh/ped/issues/5",
+      "number": 5,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ped",
+        "url": "https://github.com/junjieteoh/ped",
+        "owner": {
+          "login": "junjieteoh",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/45454752?v=4",
+          "url": "https://github.com/junjieteoh"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHGg7I85G44fM",
+      "closed": false,
+      "title": "Schedule panel doesnt seem to get updated as you edit contact.",
+      "createdAt": "2022-04-01T06:38:20Z",
+      "url": "https://github.com/junjieteoh/ped/issues/4",
+      "number": 4,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ped",
+        "url": "https://github.com/junjieteoh/ped",
+        "owner": {
+          "login": "junjieteoh",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/45454752?v=4",
+          "url": "https://github.com/junjieteoh"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHGg7I85G41m4",
+      "closed": false,
+      "title": "Telegram - invalid input",
+      "createdAt": "2022-04-01T06:24:21Z",
+      "url": "https://github.com/junjieteoh/ped/issues/3",
+      "number": 3,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ped",
+        "url": "https://github.com/junjieteoh/ped",
+        "owner": {
+          "login": "junjieteoh",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/45454752?v=4",
+          "url": "https://github.com/junjieteoh"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHGg7I85G407P",
+      "closed": false,
+      "title": "Adding person - phone number error message ",
+      "createdAt": "2022-04-01T06:21:22Z",
+      "url": "https://github.com/junjieteoh/ped/issues/2",
+      "number": 2,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ped",
+        "url": "https://github.com/junjieteoh/ped",
+        "owner": {
+          "login": "junjieteoh",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/45454752?v=4",
+          "url": "https://github.com/junjieteoh"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHGg7I85G40f4",
+      "closed": false,
+      "title": "App window size",
+      "createdAt": "2022-04-01T06:19:07Z",
+      "url": "https://github.com/junjieteoh/ped/issues/1",
+      "number": 1,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ped",
+        "url": "https://github.com/junjieteoh/ped",
+        "owner": {
+          "login": "junjieteoh",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/45454752?v=4",
+          "url": "https://github.com/junjieteoh"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOGzwZF85Gjurk",
+      "closed": true,
+      "title": "Add test for grab command ",
+      "createdAt": "2022-03-28T17:40:43Z",
+      "url": "https://github.com/AY2122S2-CS2103T-W12-2/tp/issues/98",
+      "number": 98,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/45454752?v=4",
+            "name": null,
+            "url": "https://github.com/junjieteoh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "tp",
+        "url": "https://github.com/AY2122S2-CS2103T-W12-2/tp",
+        "owner": {
+          "login": "AY2122S2-CS2103T-W12-2",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/99257949?v=4",
+          "url": "https://github.com/AY2122S2-CS2103T-W12-2"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOGzwZF85GiNSZ",
+      "closed": true,
+      "title": "Update add profile GUI Page to support additional attributes.",
+      "createdAt": "2022-03-28T12:32:44Z",
+      "url": "https://github.com/AY2122S2-CS2103T-W12-2/tp/issues/93",
+      "number": 93,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/45454752?v=4",
+            "name": null,
+            "url": "https://github.com/junjieteoh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "tp",
+        "url": "https://github.com/AY2122S2-CS2103T-W12-2/tp",
+        "owner": {
+          "login": "AY2122S2-CS2103T-W12-2",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/99257949?v=4",
+          "url": "https://github.com/AY2122S2-CS2103T-W12-2"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOGzwZF85Gezdb",
+      "closed": true,
+      "title": "Add tests for Major, Telegram ID, Matriculation Card class",
+      "createdAt": "2022-03-27T10:37:31Z",
+      "url": "https://github.com/AY2122S2-CS2103T-W12-2/tp/issues/80",
+      "number": 80,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/45454752?v=4",
+            "name": null,
+            "url": "https://github.com/junjieteoh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "tp",
+        "url": "https://github.com/AY2122S2-CS2103T-W12-2/tp",
+        "owner": {
+          "login": "AY2122S2-CS2103T-W12-2",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/99257949?v=4",
+          "url": "https://github.com/AY2122S2-CS2103T-W12-2"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHC_mVs5GKpE2",
+      "closed": false,
+      "title": "Dummy bug report 1",
+      "createdAt": "2022-03-22T19:08:27Z",
+      "url": "https://github.com/junjieteoh/alpha/issues/1",
+      "number": 1,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "alpha",
+        "url": "https://github.com/junjieteoh/alpha",
+        "owner": {
+          "login": "junjieteoh",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/45454752?v=4",
+          "url": "https://github.com/junjieteoh"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOGzwZF85GKftV",
+      "closed": true,
+      "title": "Implement Grab Command",
+      "createdAt": "2022-03-22T18:37:12Z",
+      "url": "https://github.com/AY2122S2-CS2103T-W12-2/tp/issues/63",
+      "number": 63,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/45454752?v=4",
+            "name": null,
+            "url": "https://github.com/junjieteoh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "tp",
+        "url": "https://github.com/AY2122S2-CS2103T-W12-2/tp",
+        "owner": {
+          "login": "AY2122S2-CS2103T-W12-2",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/99257949?v=4",
+          "url": "https://github.com/AY2122S2-CS2103T-W12-2"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOGzwZF85GKeav",
+      "closed": true,
+      "title": "Enchance the profiling of each person",
+      "createdAt": "2022-03-22T18:32:10Z",
+      "url": "https://github.com/AY2122S2-CS2103T-W12-2/tp/issues/62",
+      "number": 62,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/45454752?v=4",
+            "name": null,
+            "url": "https://github.com/junjieteoh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "tp",
+        "url": "https://github.com/AY2122S2-CS2103T-W12-2/tp",
+        "owner": {
+          "login": "AY2122S2-CS2103T-W12-2",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/99257949?v=4",
+          "url": "https://github.com/AY2122S2-CS2103T-W12-2"
+        }
+      }
+    }
+  ],
+  "open": 31,
+  "totalCount": 37
+}

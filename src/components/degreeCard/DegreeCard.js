@@ -37,7 +37,7 @@ class DegreeCard extends Component {
                   {degree.title}
                 </h2>
                 <h3 className="card-subtitle" style={{ color: theme.text }}>
-                  {degree.subtitle}
+                  <div dangerouslySetInnerHTML={{ __html: degree.subtitle }} />
                 </h3>
               </div>
               <div className="body-header-duration">
@@ -50,7 +50,7 @@ class DegreeCard extends Component {
               {degree.descriptions.map((sentence) => {
                 return (
                   <p className="content-list" style={{ color: theme.text }}>
-                    {sentence}
+                    <div dangerouslySetInnerHTML={{ __html: sentence }} />
                   </p>
                 );
               })}

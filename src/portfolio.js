@@ -26,7 +26,8 @@ const greeting = {
     "An independent, highly-motivated entrepreneur who is always excited to spend time to learn new things about the world.",
   resumeLink:
     "https://drive.google.com/file/d/1zFLilsY3dk7WQoUU9nyHZlR_4Rq_wVIF/view?usp=share_link",
-  portfolio_repository: "https://github.com/junjieteoh",
+  portfolio_repository:
+    "https://drive.google.com/file/d/1K4DA1usAMLYB9XkJOnBrGu2itg5zDqq2/view?usp=share_link",
   githubProfile: "https://github.com/junjieteoh",
 };
 
@@ -52,6 +53,12 @@ const socialMediaLinks = [
     link: "https://github.com/junjieteoh",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
+  },
+  {
+    name: "Gitlab",
+    link: "https://gitlab.com/junjieteoh1",
+    fontAwesomeIcon: "fa-gitlab",
+    backgroundColor: "#FC6D26",
   },
   // {
   //   name: "YouTube",
@@ -283,7 +290,7 @@ const skills = {
       title: "Teach",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Experienced NUS School of Computing teaching assistant in NUS who taught over 10 tutorial classes (>220 undergraduates) in 5 modules",
+        "⚡ Experienced NUS School of Computing teaching assistant who taught over 10 tutorial classes (>220 undergraduates) in 5 modules",
         "⚡ Familiar with the Mathematics Olympiad syllabus up to Secondary 4 (APMOPS, SMO Junior, SMO Senior)",
         "⚡ Familiar with GCE A level H2 Mathemtatics, H2 Further Mathematics and H3 Mathematics curriculum.",
       ],
@@ -296,20 +303,20 @@ const skills = {
 const competitiveSites = {
   competitiveSites: [
     {
+      siteName: "Kattis",
+      logo_path: "judge.png",
+      style: {
+        color: "#5B4638",
+      },
+      profileLink: "https://open.kattis.com/users/teoh-jun-jie",
+    },
+    {
       siteName: "HackerRank",
       iconifyClassname: "simple-icons:hackerrank",
       style: {
         color: "#2EC866",
       },
       profileLink: "https://www.hackerrank.com/junjieteoh",
-    },
-    {
-      siteName: "Codechef",
-      logo_path: "judge.png",
-      style: {
-        color: "#5B4638",
-      },
-      profileLink: "https://www.codechef.com/users/ashutosh_1919",
     },
     {
       siteName: "Codeforces",
@@ -319,232 +326,305 @@ const competitiveSites = {
       },
       profileLink: "https://codeforces.com/profile/junjieteoh",
     },
-    {
-      siteName: "Hackerearth",
-      iconifyClassname: "simple-icons:hackerearth",
-      style: {
-        color: "#323754",
-      },
-      profileLink: "https://www.hackerearth.com/@ashutosh391",
-    },
-    {
-      siteName: "Kaggle",
-      iconifyClassname: "simple-icons:kaggle",
-      style: {
-        color: "#20BEFF",
-      },
-      profileLink: "https://www.kaggle.com/laymanbrother",
-    },
+    // {
+    //   siteName: "Hackerearth",
+    //   iconifyClassname: "simple-icons:hackerearth",
+    //   style: {
+    //     color: "#323754",
+    //   },
+    //   profileLink: "https://www.hackerearth.com/@ashutosh391",
+    // },
+    // {
+    //   siteName: "Kaggle",
+    //   iconifyClassname: "simple-icons:kaggle",
+    //   style: {
+    //     color: "#20BEFF",
+    //   },
+    //   profileLink: "https://www.kaggle.com/laymanbrother",
+    // },
   ],
 };
-
+// {
+//   /* <a href='https://www.google.com' style='color: white;'>NUS Venture Initiation Programme</a> */
+// }
 const degrees = {
   degrees: [
     {
-      title: "Indian Institute of Information Technology Kurnool",
-      subtitle: "B.Tech. in Computer Engineering",
-      logo_path: "judge.png",
-      alt_name: "IIITDM Kurnool",
-      duration: "2016 - Present",
-      descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+      title: "National Univeristy of Singpaore",
+      subtitle: [
+        "B.Comp. in Computer Science & B.Sci in Applied Mathematics (<a href='https://www.comp.nus.edu.sg/cugresource/per-cohort/ddp-cs-maths/' style='color: white;'>Double Degree</a>)",
       ],
-      website_link: "http://iiitk.ac.in",
+      logo_path: "nus.png",
+      alt_name: "NUS",
+      duration: "2020 - Present",
+      descriptions: [
+        "⚡ I am currently persuing 4 focus area in Computer Science, namely " +
+          "<a href='https://www.comp.nus.edu.sg/programmes/ug/focus/algo/' style='color: white;'> Algorithms & Theory</a>, " +
+          "<a href='https://www.comp.nus.edu.sg/programmes/ug/focus/ai/' style='color: white;'> Artificial Intelligence</a>, " +
+          "<a href='https://www.comp.nus.edu.sg/programmes/ug/focus/graphics/' style='color: white;'> Computer Graphics and Games</a>, " +
+          " and <a href='https://www.comp.nus.edu.sg/programmes/ug/focus/retrieval/' style='color: white;'> Multimedia Information Retreival</a>",
+
+        "⚡ For Mathematics, I am currently persuing a specialisation in <a href='https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2019/11/PlanMMDA1920.pdf' style='color: white;'>Mathematical Modelling & Data Analytics</a> ",
+        "⚡ In 2022, I was selected as one of the winners of the <a href='https://www.comp.nus.edu.sg/entrepreneurship/awards/iepsocwinners/' style='color: white;'>NUS Venture Initiation Programme</a> with my startup Ximplear, and we are currently incubated at NUS i3 with <a href='https://www.comp.nus.edu.sg/entrepreneurship/furnace/start/' style='color: white;'>NUS Furnace</a>",
+        "⚡ Apart from this, I have done courses on Computer Networks, Database Systems and Software Engineering.",
+        "⚡ I am a recipient of the ASEAN Merit Scholarship.",
+        "\n",
+        "CAP: 4.59/5.00 (CS) 4.68/5.00 (Math)",
+      ],
+      website_link: "https://www.comp.nus.edu.sg/",
+    },
+    {
+      title: "Hwa Chong Institution",
+      subtitle:
+        "Singapore-Cambridge General Certificate of Education Advanced Level",
+      logo_path: "hci.png",
+      alt_name: "NUS",
+      duration: "2014 - 2019",
+      descriptions: [
+        "⚡ I obtained 8 distinctions (including Higher Chinese and H3 Mathematics) for GCE A level 2019.",
+        "⚡ I was awarded the HCI Diploma with Distinction in 2019, Outstanding Student Award in 2017 ",
+        "⚡ Two times Gold medalists and two times Silver medalists for the Singapore Mathematical Olympiad (SMO)",
+        "⚡ Gold medalist and recipient of the Foo Kean Pew Memorial Prize With Excellent Presentation, the highest level of achievement, in the Senior Section of Singapore Mathematics Project Festival (SMPF), with paper 'The Congruency of the Iso-Peri-Area Triangles' ",
+        "⚡ I was a recipient of the ASEAN Scholarship",
+      ],
+      website_link: "https://www.hci.edu.sg/",
     },
   ],
 };
 
 const certifications = {
   certifications: [
-    {
-      title: "Machine Learning",
-      subtitle: "- Andrew Ng",
-      logo_path: "stanford_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
-      alt_name: "Stanford University",
-      color_code: "#8C151599",
-    },
-    {
-      title: "Deep Learning",
-      subtitle: "- Andrew Ng",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
-      alt_name: "deeplearning.ai",
-      color_code: "#00000099",
-    },
-    {
-      title: "ML on GCP",
-      subtitle: "- GCP Training",
-      logo_path: "google_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/EB4VJARK8647",
-      alt_name: "Google",
-      color_code: "#0C9D5899",
-    },
-    {
-      title: "Data Science",
-      subtitle: "- Alex Aklson",
-      logo_path: "ibm_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/PLEAPCSJBZT5",
-      alt_name: "IBM",
-      color_code: "#1F70C199",
-    },
-    {
-      title: "Big Data",
-      subtitle: "- Kim Akers",
-      logo_path: "microsoft_logo.png",
-      certificate_link:
-        "https://drive.google.com/file/d/164zKCFOsI4vGqokc-Qj-e_D00kLDHIrG/view",
-      alt_name: "Microsoft",
-      color_code: "#D83B0199",
-    },
-    {
-      title: "Advanced Data Science",
-      subtitle: "- Romeo Kienzler",
-      logo_path: "ibm_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/BH2T9BRU87BH",
-      alt_name: "IBM",
-      color_code: "#1F70C199",
-    },
-    {
-      title: "Advanced ML on GCP",
-      subtitle: "- GCP Training",
-      logo_path: "google_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/5JZZM7TNQ2AV",
-      alt_name: "Google",
-      color_code: "#0C9D5899",
-    },
-    {
-      title: "DL on Tensorflow",
-      subtitle: "- Laurence Moroney",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/6T4DCUGNK8J8",
-      alt_name: "deeplearning.ai",
-      color_code: "#00000099",
-    },
-    {
-      title: "Fullstack Development",
-      subtitle: "- Jogesh Muppala",
-      logo_path: "coursera_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/certificate/NRANJA66Y2YA",
-      alt_name: "Coursera",
-      color_code: "#2A73CC",
-    },
-    {
-      title: "Kuberenetes on GCP",
-      subtitle: "- Qwiklabs",
-      logo_path: "gcp_logo.png",
-      certificate_link:
-        "https://google.qwiklabs.com/public_profiles/e4d5a92b-faf6-4679-a70b-a9047c0cd750",
-      alt_name: "GCP",
-      color_code: "#4285F499",
-    },
-    {
-      title: "Cryptography",
-      subtitle: "- Saurabh Mukhopadhyay",
-      logo_path: "nptel_logo.png",
-      certificate_link:
-        "https://drive.google.com/open?id=1z5ExD_QJVdU0slLkp8CBqSF3-C3g-ro_",
-      alt_name: "NPTEL",
-      color_code: "#FFBB0099",
-    },
-    {
-      title: "Cloud Architecture",
-      subtitle: "- Qwiklabs",
-      logo_path: "gcp_logo.png",
-      certificate_link:
-        "https://google.qwiklabs.com/public_profiles/5fab4b2d-be6f-408c-8dcb-6d3b58ecb4a2",
-      alt_name: "GCP",
-      color_code: "#4285F499",
-    },
+    // {
+    //   title: "Machine Learning",
+    //   subtitle: "- Andrew Ng",
+    //   logo_path: "stanford_logo.png",
+    //   certificate_link:
+    //     "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
+    //   alt_name: "Stanford University",
+    //   color_code: "#8C151599",
+    // },
+    // {
+    //   title: "Deep Learning",
+    //   subtitle: "- Andrew Ng",
+    //   logo_path: "deeplearning_ai_logo.png",
+    //   certificate_link:
+    //     "https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
+    //   alt_name: "deeplearning.ai",
+    //   color_code: "#00000099",
+    // },
+    // {
+    //   title: "ML on GCP",
+    //   subtitle: "- GCP Training",
+    //   logo_path: "google_logo.png",
+    //   certificate_link:
+    //     "https://www.coursera.org/account/accomplishments/specialization/EB4VJARK8647",
+    //   alt_name: "Google",
+    //   color_code: "#0C9D5899",
+    // },
+    // {
+    //   title: "Data Science",
+    //   subtitle: "- Alex Aklson",
+    //   logo_path: "ibm_logo.png",
+    //   certificate_link:
+    //     "https://www.coursera.org/account/accomplishments/specialization/PLEAPCSJBZT5",
+    //   alt_name: "IBM",
+    //   color_code: "#1F70C199",
+    // },
+    // {
+    //   title: "Big Data",
+    //   subtitle: "- Kim Akers",
+    //   logo_path: "microsoft_logo.png",
+    //   certificate_link:
+    //     "https://drive.google.com/file/d/164zKCFOsI4vGqokc-Qj-e_D00kLDHIrG/view",
+    //   alt_name: "Microsoft",
+    //   color_code: "#D83B0199",
+    // },
+    // {
+    //   title: "Advanced Data Science",
+    //   subtitle: "- Romeo Kienzler",
+    //   logo_path: "ibm_logo.png",
+    //   certificate_link:
+    //     "https://www.coursera.org/account/accomplishments/verify/BH2T9BRU87BH",
+    //   alt_name: "IBM",
+    //   color_code: "#1F70C199",
+    // },
+    // {
+    //   title: "Advanced ML on GCP",
+    //   subtitle: "- GCP Training",
+    //   logo_path: "google_logo.png",
+    //   certificate_link:
+    //     "https://www.coursera.org/account/accomplishments/verify/5JZZM7TNQ2AV",
+    //   alt_name: "Google",
+    //   color_code: "#0C9D5899",
+    // },
+    // {
+    //   title: "DL on Tensorflow",
+    //   subtitle: "- Laurence Moroney",
+    //   logo_path: "deeplearning_ai_logo.png",
+    //   certificate_link:
+    //     "https://www.coursera.org/account/accomplishments/verify/6T4DCUGNK8J8",
+    //   alt_name: "deeplearning.ai",
+    //   color_code: "#00000099",
+    // },
+    // {
+    //   title: "Fullstack Development",
+    //   subtitle: "- Jogesh Muppala",
+    //   logo_path: "coursera_logo.png",
+    //   certificate_link:
+    //     "https://www.coursera.org/account/accomplishments/certificate/NRANJA66Y2YA",
+    //   alt_name: "Coursera",
+    //   color_code: "#2A73CC",
+    // },
+    // {
+    //   title: "Kuberenetes on GCP",
+    //   subtitle: "- Qwiklabs",
+    //   logo_path: "gcp_logo.png",
+    //   certificate_link:
+    //     "https://google.qwiklabs.com/public_profiles/e4d5a92b-faf6-4679-a70b-a9047c0cd750",
+    //   alt_name: "GCP",
+    //   color_code: "#4285F499",
+    // },
+    // {
+    //   title: "Cryptography",
+    //   subtitle: "- Saurabh Mukhopadhyay",
+    //   logo_path: "nptel_logo.png",
+    //   certificate_link:
+    //     "https://drive.google.com/open?id=1z5ExD_QJVdU0slLkp8CBqSF3-C3g-ro_",
+    //   alt_name: "NPTEL",
+    //   color_code: "#FFBB0099",
+    // },
+    // {
+    //   title: "Cloud Architecture",
+    //   subtitle: "- Qwiklabs",
+    //   logo_path: "gcp_logo.png",
+    //   certificate_link:
+    //     "https://google.qwiklabs.com/public_profiles/5fab4b2d-be6f-408c-8dcb-6d3b58ecb4a2",
+    //   alt_name: "GCP",
+    //   color_code: "#4285F499",
+    // },
   ],
 };
 
 // Experience Page
 const experience = {
   title: "Experience",
-  subtitle: "Work, Internship and Volunteership",
+  subtitle: "Programmer, Teacher and Media Freelancer",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "I have worked with some companies as Software Engineer Interns and Programmer. Besides doing programming work, I also enjoy teaching and I am a media enthuaist.",
   header_image_path: "experience.svg",
   sections: [
     {
-      title: "Work",
+      title: "Programmer",
       experiences: [
         {
-          title: "Associate AI Engineer",
-          company: "Legato Health Technology",
-          company_url: "https://legatohealthtech.com/",
-          logo_path: "legato_logo.png",
-          duration: "June 2020 - PRESENT",
-          location: "Hyderabad, Telangana",
+          title: "Algorithm Developer",
+          company: "NUS Department of Statistics and Data Science",
+          company_url: "https://www.stat.nus.edu.sg/",
+          logo_path: "nus.png",
+          duration: "December 2022 - PRESENT",
+          location: "Singapore",
           description:
-            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
+            "I am in charge of revamping the current process of allocating modules to professors for teaching. I have used Flask to create a portal, and developed multiple server-side Pythons scripts to compute assignment and generating results report.",
           color: "#0879bf",
         },
         {
-          title: "Android and ML Developer",
-          company: "Muffito Incorporation",
-          company_url: "https://www.linkedin.com/company/muffito-inc/about/",
-          logo_path: "muffito_logo.png",
-          duration: "May 2018 - Oct 2018",
-          location: "Pune, Maharashtra",
+          title: "Software Engineering Intern",
+          company: "Solve Education!",
+          company_url: "https://solveeducation.org/",
+          logo_path: "se.png",
+          duration: "May 2022 - August 2022",
+          location: "Singapore",
           description:
-            "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
+            "I am in charge of to develop a Virtual Classroom Simulation framework, which is a agent-based model to simulate teaching. This is used to do benchmarking of current m-learning policies. I have used Python to develop this framework and Snakemake automate build process." +
+            "<br> <br> See my work <a href='https://tinyurl.com/SEinternwork' style='color: white;'>here</a>.",
           color: "#9b1578",
         },
         {
-          title: "Android Developer",
-          company: "FreeCopy Pvt. Ltd.",
-          company_url: "https://www.linkedin.com/company/freecopy/about/",
-          logo_path: "freecopy_logo.png",
-          duration: "Nov 2017 - Dec 2017",
-          location: "Ahmedabad, Gujarat",
+          title: "Co-Founder, Software Engineer",
+          company: "Ximplear",
+          company_url: "https://www.ximplear.com/",
+          logo_path: "ximplear.png",
+          duration: "Jan 2022 - PRESENT",
+          location: "Singapore ",
           description:
-            "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
+            "Ximplear sees the high hardware costs that can act as a financial barrier for many indoor positioning system applications. Our vision for Ximplear is to use data from a variety of IoT sensors, such as CCTV cameras, as the primary source of accessible and cost-effective analytics for retail and mall environments." +
+            " We have developed a software that involved the use of React TypeScript as frontend, Python and Firebase as backend that is targeted towards retail analytics." +
+            "<br> <br> See website <a href='https://ximplear.com' style='color: white;'>here</a>. " +
+            "See our VIP pitch deck <a href='https://tinyurl.com/ximplearslides' style='color: white;'>here</a>. " +
+            "See our retail solutions <a href='https://drive.google.com/file/d/1fVvy1gLOq-Pn7i64iebAzWgBW3S-kThF/view?usp=sharing' style='color: white;'>here</a>.",
           color: "#fc1f20",
         },
       ],
     },
     {
-      title: "Internships",
+      title: "Teachings",
       experiences: [
         {
-          title: "Data Science Research Intern",
-          company: "Delhivery Pvt. Ltd.",
-          company_url: "https://www.delhivery.com/",
-          logo_path: "delhivery_logo.png",
-          duration: "May 2019 - Sept 2019",
-          location: "Gurgaon, Haryana",
+          title: "Teaching Assistant (Fall 2022)",
+          company: "National University of Singapore, School of Computing",
+          company_url: "https://www.comp.nus.edu.sg/",
+          logo_path: "nus.png",
+          duration: "Aug 2022 - Dec 2022",
+          location: "Singapore",
           description:
-            "I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.",
+            "<b>CS2100 - Computer Organisation</b>" +
+            "<br> I have tutored four classes of 75 students in Fall 2022 with a teaching rating of 4.6/5.0 (<a href='https://drive.google.com/file/d/1fVvy1gLOq-Pn7i64iebAzWgBW3S-kThF/view?usp=sharing' style='color: white;'>report</a>)." +
+            "<br>CS2100 covers topics such as data representation systems, combinational and sequential circuit design techniques, assembly language, processor execution cycles, pipelining, memory hierarchy and input/output systems." +
+            "<br><br>" +
+            "<b>CS1231S - Discrete Structure</b>" +
+            "<br> I have tutored two classes of 39 students in Fall 2022 with a teaching rating of 4.7/5.0 (<a href='https://drive.google.com/file/d/1fVvy1gLOq-Pn7i64iebAzWgBW3S-kThF/view?usp=sharing' style='color: white;'>report</a>)." +
+            "<br> CS1231S covers topics such as Logic and proof techniques, Relations and Functions, Mathematical formulation of data models (linear model, trees, graphs), Counting and Combinatoric.",
           color: "#ee3c26",
         },
         {
-          title: "Data Science Intern",
-          company: "Intel Indexer LLC",
-          company_url:
-            "https://opencorporates.com/companies/us_dc/EXTUID_4170286",
-          logo_path: "intel_logo.jpg",
-          duration: "Nov 2018 - Dec 2018",
-          location: "Work From Home",
+          title: "Teaching Assistant (Summer 2022)",
+          company: "National University of Singapore, School of Computing",
+          company_url: "https://www.comp.nus.edu.sg/",
+          logo_path: "nus.png",
+          duration: "Jan 2022 - May 2022",
+          location: "Singapore",
           description:
-            "This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
+            "<b>CS2040S - Data Structure and Algorithms</b>" +
+            "<br> I have tutored one class of 15 students in Summer 2022 with a teaching rating of 4.3/5.0 (<a href='https://drive.google.com/file/d/1fVvy1gLOq-Pn7i64iebAzWgBW3S-kThF/view?usp=sharing' style='color: white;'>report</a>)." +
+            "<br>CS2040S covers topics such as Basic data structures (linked lists, stacks, queues, hash tables, binary heaps, trees, and graphs), searching and sorting algorithms, and basic analysis of algorithms." +
+            "<br><br>" +
+            "<b>TIC1201 - Discrete Structure</b>" +
+            "<br> I have tutored one class of 23 students in Summer 2022 with a teaching rating of 4.3/5.0 (<a href='https://drive.google.com/file/d/1fVvy1gLOq-Pn7i64iebAzWgBW3S-kThF/view?usp=sharing' style='color: white;'>report</a>).",
+          // "<br> TIC1201 covers topics such as Logic and proof techniques, Relations and Functions, Mathematical formulation of data models (linear model, trees, graphs), Counting and Combinatoric.",
+          color: "#ee3c26",
+        },
+        {
+          title: "Teaching Assistant (Fall 2021)",
+          company: "National University of Singapore, School of Computing",
+          company_url: "https://www.comp.nus.edu.sg/",
+          logo_path: "nus.png",
+          duration: "Aug 2021 - Dec 2021",
+          location: "Singapore",
+          description:
+            "<b>CS1101S - Programming Methodology</b>" +
+            "<br> I have tutored one class of 8 students in Fall 2021 with a teaching rating of 4.6/5.0 (<a href='https://drive.google.com/file/d/1fVvy1gLOq-Pn7i64iebAzWgBW3S-kThF/view?usp=sharing' style='color: white;'>report</a>)." +
+            "<br>CS1101S covers topics such as Functional Abstraction, Recursion, Higher-order Functions, Data Abstraction, Algorithmic Strategies, State Mutation, Loops and Arrays, Sorting and Searching." +
+            "<br><br>" +
+            "<b>CS1231S - Discrete Structure</b>" +
+            "<br> I have tutored one class of 17 students in Fall 2021 with a teaching rating of 4.7/5.0 (<a href='https://drive.google.com/file/d/1fVvy1gLOq-Pn7i64iebAzWgBW3S-kThF/view?usp=sharing' style='color: white;'>report</a>).",
+          // "<br> CS1231S covers topics such as Logic and proof techniques, Relations and Functions, Mathematical formulation of data models (linear model, trees, graphs), Counting and Combinatoric.",
+          color: "#ee3c26",
+        },
+        {
+          title: "Freelance Tutor",
+          company: "",
+          company_url: "",
+          logo_path: "class.png",
+          duration: "Nov 2013 - PRESENT",
+          location: "",
+          description:
+            "I have experiences teaching primary school level and secondary school level Mathematics Olympiad, H2 Mathematics and university level computer science.",
           color: "#0071C5",
         },
       ],
     },
     {
-      title: "Volunteerships",
+      title: "Media",
       experiences: [
         {
           title: "Google Explore ML Facilitator",
@@ -556,51 +636,6 @@ const experience = {
           description:
             "Explore Machine Learning (ML) is a Google-sponsored program for university students to get started with Machine Learning. The curriculum offers 3 tracks of ML Content (Beginner, Intermediate, Advanced) and relies on university student facilitators to train other students on campus and to build opensource projects under this program.",
           color: "#4285F4",
-        },
-        {
-          title: "Microsoft Student Partner",
-          company: "Microsoft",
-          company_url: "https://www.microsoft.com/",
-          logo_path: "microsoft_logo.png",
-          duration: "Aug 2019 - May 2020",
-          location: "Hyderabad, Telangana",
-          description:
-            "Microsoft Student Partner is a program for university students to lead the awareness and use of Cloud especially Azure tools in the development of their projects and startups. Under this program, I have organised hands on workshops and seminars to teach Cloud Computing concepts to students.",
-          color: "#D83B01",
-        },
-        {
-          title: "Mozilla Campus Captain",
-          company: "Mozilla",
-          company_url: "https://www.mozilla.org/",
-          logo_path: "mozilla_logo.png",
-          duration: "Oct 2019 - May 2020",
-          location: "Kurnool, Andhra Pradesh",
-          description:
-            "My responsibility for this program was to create opensource environment in college and in the city. We have organised multiple hackathons on the problems collected by ordinary people from Kurnool city. We have build opensource community of our own college. The community is available at dsc_iiitdmk on github.",
-          color: "#000000",
-        },
-        {
-          title: "Developer Students Club Member",
-          company: "DSC IIITDM Kurnool",
-          company_url:
-            "https://www.linkedin.com/company/developer-students-club-iiitdm-kurnool",
-          logo_path: "dsc_logo.png",
-          duration: "Jan 2018 - May 2020",
-          location: "Kurnool, Andhra Pradesh",
-          description:
-            "We have well established developer club in college which is directly associated with Google Developers. We have developed many interdisciplinary projects under the membership of this club. We have organised workshops and activities on Android Application Development, Flutter and React JS.",
-          color: "#0C9D58",
-        },
-        {
-          title: "Developer Program Member",
-          company: "Github",
-          company_url: "https://github.com/",
-          logo_path: "github_logo.png",
-          duration: "July 2019 - PRESENT",
-          location: "Work From Home",
-          description:
-            "I am actively contributing to many opensource projects. I have contributed to projects of organisations like Tensorflow, Uber, Facebook, Google, Scikit-learn, Kiwix, Sympy, Python, NVLabs, Fossasia, Netrack, Keras etc. These contributions include bug fixes, feature requests and formulating proper documentation for project.",
-          color: "#181717",
         },
       ],
     },
